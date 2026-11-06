@@ -1,0 +1,6 @@
+import{c as l,j as e,a as c}from"./index-DAh6eNo2.js";/**
+ * @license lucide-react v0.462.0 - ISC
+ *
+ * This source code is licensed under the ISC license.
+ * See the LICENSE file in the root directory of this source tree.
+ */const d=l("Info",[["circle",{cx:"12",cy:"12",r:"10",key:"1mglay"}],["path",{d:"M12 16v-4",key:"1dtifu"}],["path",{d:"M12 8h.01",key:"e9boi3"}]]),i=({facts:a,notes:r=[]})=>e.jsx("section",{className:"relative z-10 pb-8",children:e.jsx("div",{className:"max-w-6xl mx-auto px-4 sm:px-6 lg:px-8",children:e.jsx(c,{children:e.jsxs("div",{className:"rounded-2xl border border-border/60 bg-card/80 backdrop-blur-sm p-6 md:p-8",children:[e.jsx("div",{className:"grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6",children:a.map(s=>e.jsxs("div",{children:[e.jsx("p",{className:"text-xs font-bold uppercase tracking-[0.15em] text-primary mb-1",children:s.label}),e.jsx("p",{className:"text-sm font-semibold text-foreground leading-snug",children:s.value})]},s.label))}),r.length>0&&e.jsx("ul",{className:"border-t border-border mt-6 pt-6 space-y-2",children:r.map(s=>e.jsxs("li",{className:"flex items-start gap-2 text-xs text-muted-foreground leading-relaxed",children:[e.jsx(d,{className:"h-3.5 w-3.5 text-primary flex-shrink-0 mt-0.5"}),s]},s))})]})})})});export{i as S};
